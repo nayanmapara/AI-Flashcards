@@ -121,7 +121,7 @@ export default function Flashcard() {
 					</div>
 				</div>
 			) : (
-				<p className="text-center text-lg text-gray-500">
+				<p className="text-center text-lg text-white">
 					No flashcards available.
 				</p>
 			)}
